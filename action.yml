@@ -1,4 +1,4 @@
-name: 'Run reek with reviewdog'
+name: 'Run reek with reviewdog - by hopin'
 description: '🐶 Run reek with reviewdog on pull requests to improve code review experience.'
 author: 'mgrachev (reviewdog)'
 inputs:
